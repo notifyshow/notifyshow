@@ -17,11 +17,14 @@ Explore our latest authoritative deep-dives published on **[Notify.show](https:/
    - Deep architectural breakdown of unified memory bandwidth, MLX vs CoreML benchmarks, and local LLM execution.
 3. **[Mastering the 15-Minute Balanced Dinner: High-Protein Pantry Staples and Kitchen Mechanics](https://notify.show/post/foodcraft/mastering-the-15-minute-balanced-dinner-high-protein-pantry-staples-and-kitchen-mechanics)**
    - The culinary physics of Maillard reactions, acid balancing, and high-efficiency meal prep.
+4. **[The Ultimate Digital Nomad Setup: Minimalist Tech, Global Connectivity, and Workstation Ergonomics](https://notify.show/post/travelscope/the-ultimate-digital-nomad-setup-minimalist-tech-global-connectivity-and-workstation-ergonomics)**
+   - Ultralight mobile workstation architecture, dual-eSIM failover, and posture ergonomics across continents.
 
 ---
 
 ### 🌐 Network & Ecosystem
 - 🌐 **Primary Hub**: [https://notify.show](https://notify.show)
+- 🎥 **YouTube Channel**: [https://www.youtube.com/@notifyshow-official](https://www.youtube.com/@notifyshow-official)
 - 📝 **Substack Publication**: [https://notifyshow.substack.com](https://notifyshow.substack.com)
 - 📰 **WordPress**: [https://notifyshow.wordpress.com](https://notifyshow.wordpress.com)
 - 🎨 **Pinterest**: [https://www.pinterest.com/notifyshow/](https://www.pinterest.com/notifyshow/)
