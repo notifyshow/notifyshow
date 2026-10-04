@@ -23,6 +23,8 @@ Explore our latest authoritative deep-dives published on **[Notify.show](https:/
    - Mathematical cash flow allocation, sinking fund architecture, and eliminating lifestyle creep.
 6. **[The Chemistry of the Maillard Reaction: Unlocking Restaurant-Grade Flavor at Home](https://notify.show/post/foodcraft/the-chemistry-of-the-maillard-reaction-unlocking-restaurant-grade-flavor-at-home)**
    - Thermal kinetics threshold (140°C–165°C), moisture desiccation protocol, and pan fond deglazing.
+7. **[Smart Home Automation That Actually Saves Time: Low-Maintenance HomeKit Routines](https://notify.show/post/homehacks/smart-home-automation-that-actually-saves-time-low-maintenance-homekit-routines)**
+   - Local-first Thread and Matter protocols, mmWave presence sensing, and fail-safe automation design.
 
 ---
 
